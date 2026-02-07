@@ -160,9 +160,9 @@ document.addEventListener('DOMContentLoaded', () => {
             <p style="font-size: 1.2rem; margin: 15px 0; color: #ff1e7c; font-weight: 600;">
                 Happy Rose Day 🌹
             </p>
-            <p>Just like this rose, my feelings for you are soft,simple and real.</p>
+            <p>Just like this rose, my feelings for you are soft,simple and real.I havent been the best for you but,</p>
             <p>I would choose you over anything in a heartbeat so I wanted to ask you that would you be my valentine!!🌹</p>
-            <p style="font-size: 1.1rem; font-weight: 500;">Always keep smiling ywaar ♥️</p>
+            <p style="font-size: 1.1rem; font-weight: 500;">Always keep smiling ywaar, lob u ♥️</p>
             <div style="margin-top: 30px; border-top: 1px dashed var(--primary-pink); padding-top: 15px;">
                 <p style="font-family: 'Dancing Script', cursive; font-size: 1.4rem; margin: 0;">With love,</p>
                 <p style="font-family: 'Pacifico', cursive; color: var(--deep-pink); margin: 0;">by Vedanth</p>
