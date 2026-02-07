@@ -34,7 +34,7 @@ Then open your browser and navigate to `http://localhost:8080`.
 
 ## 🎨 Credits
 
-- **Made by Soham**
+- **Made by vedanth**
 
 ---
 Made with 💕 for a special Rose Day.
